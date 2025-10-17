@@ -24,7 +24,7 @@ logging.basicConfig(
 
 def ping_site(url):
     try:
-        response = requests.get(url, timeout=15)
+        response = requests.get(url, timeout=60)
         if response.status_code == 200:
             logging.info(f"{url} is up ({response.status_code})")
         else:
