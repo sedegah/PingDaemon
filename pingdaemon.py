@@ -5,9 +5,9 @@ from datetime import datetime
 
 URLS = [
     "https://tune-trainer-bot.onrender.com",
+    "https://gas-backend-qlfc.onrender.com",
     "https://sceneradar.onrender.com",
     "https://updevted.onrender.com",
-    "https://daily-scope-news.vercel.app",
     "https://algographbot.onrender.com",
     "https://gigarandobot.onrender.com",
 ]
