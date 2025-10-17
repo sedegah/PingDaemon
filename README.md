@@ -1,6 +1,6 @@
 # PingDaemon
 
-**PingDaemon** is a lightweight Python-based uptime keeper that periodically pings specified URLs to prevent web services from going idle. It is ideal for keeping Render, Vercel, or other web apps awake on free hosting plans that automatically sleep after inactivity.
+**PingDaemon** is a lightweight Python-based uptime keeper that periodically pings specified URLs to prevent web services from going idle. It is ideal for keeping Render or other web apps awake on free hosting plans that automatically sleep after inactivity.
 
 ---
 
