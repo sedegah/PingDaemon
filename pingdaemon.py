@@ -12,7 +12,7 @@ URLS = [
     "https://gigarandobot.onrender.com",
 ]
 
-PING_INTERVAL = 300
+PING_INTERVAL = 3000
 LOG_FILE = "ping_daemon.log"
 
 logging.basicConfig(
